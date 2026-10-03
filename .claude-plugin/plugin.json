@@ -1,0 +1,9 @@
+{
+  "name": "happysquad-ext",
+  "version": "0.1.0",
+  "description": "Experimental happysquad extensions moved out of core in v1.0: external executors (glm/opencode), team assembly, ask-kilo, requirement/standard specialist reviewers. Unsupported on the hs engine until ported.",
+  "author": {
+    "name": "happydaddy"
+  },
+  "license": "MIT"
+}
